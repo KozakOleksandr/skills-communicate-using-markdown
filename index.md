@@ -4,3 +4,10 @@
 <h4>Adding an image to file<h4> 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+<h1> Testing to add some code example <h1>
+
+``` javascript
+var myVar = "Hello, world!";
+```
